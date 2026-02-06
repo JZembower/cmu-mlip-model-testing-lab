@@ -1,0 +1,12 @@
+wandb
+datasets
+transformers
+evaluate
+tqdm
+emoji
+regex
+pandas
+pyarrow
+scikit-learn
+nbformat
+torch
